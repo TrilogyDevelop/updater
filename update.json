@@ -1,0 +1,15 @@
+{
+  "libs": 
+  [
+    {
+      "url": "https://lib1",
+      "name" : "mimgui"
+    },
+    {
+      "url": "https://lib2",
+      "name": "ArizonaSDK"
+    }
+  ],
+  "LastVer": 104,
+  "Url": "https://TrilogiLoader.asi"
+}
