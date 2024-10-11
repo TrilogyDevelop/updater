@@ -2,14 +2,14 @@
   "libs": 
   [
     {
-      "url": "https://lib1",
-      "name": "mimgui",
-      "type": "script"
+      "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/lib/tasks.lua",
+      "name": "tasks",
+      "type": "lib"
     },
     {
-      "url": "https://lib2",
-      "name": "ArizonaSDK",
-      "type": "lib"
+      "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/scripts/reload_all.lua",
+      "name": "reload all",
+      "type": "script"
     }
   ],
   "LastVer": 104,
