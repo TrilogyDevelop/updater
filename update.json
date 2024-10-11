@@ -3,11 +3,13 @@
   [
     {
       "url": "https://lib1",
-      "name" : "mimgui"
+      "name": "mimgui",
+      "type": "script"
     },
     {
       "url": "https://lib2",
-      "name": "ArizonaSDK"
+      "name": "ArizonaSDK",
+      "type": "lib"
     }
   ],
   "LastVer": 104,
