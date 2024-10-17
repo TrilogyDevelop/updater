@@ -7,6 +7,46 @@
       "type": "lib"
     },
     {
+      "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/lib/cjson.zip",
+      "name": "cjson",
+      "type": "lib"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/lib/copas.zip",
+      "name": "copas",
+      "type": "lib"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/lib/effil.zip",
+      "name": "effil",
+      "type": "lib"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/lib/iconv.zip",
+      "name": "iconv",
+      "type": "lib"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/lib/lfs.zip",
+      "name": "lfs",
+      "type": "lib"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/lib/socket.zip",
+      "name": "socket",
+      "type": "lib"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/lib/ssl.zip",
+      "name": "ssl",
+      "type": "lib"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/lib/websocket.zip",
+      "name": "websocket",
+      "type": "lib"
+    },
+    {
       "url": "https://raw.githubusercontent.com/TrilogyDevelop/updater/refs/heads/main/scripts/reload_all.zip",
       "name": "reload all",
       "type": "script"
